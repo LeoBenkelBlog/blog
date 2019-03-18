@@ -6,7 +6,7 @@ This is an experiment to test [GitPress@LeoBenkel](https://gitpress.io/@leobenke
 
 Will code render properly:
 
-```
+```scala
 val test = 2 
 
 val more = test + 5

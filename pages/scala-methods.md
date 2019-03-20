@@ -2,6 +2,7 @@
 title: Scala Methods – Syntax, Declaration, Use case, Examples
 tags: ["Scala", "Tutorial"]
 date: 2019-01-02
+excerpt: Scala methods and lambda. How to use them, write them, declare them with use cases, interactive code and practical examples.
 ---
 
 Original Source: [scala-methods on Leobenkel.com](https://leobenkel.com/2019/01/scala-methods/).

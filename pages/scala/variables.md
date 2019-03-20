@@ -8,7 +8,7 @@ Original Source: [scala-variables on Leobenkel.com](https://leobenkel.com/2018/1
 
 ## Introduction to Scala Variables
 
-![Scala Logo](../assets/scala_logo.png)
+![Scala Logo](assets/scala_logo.png)
 
 After you have created your own Scala project, you can begin to write code. In this short article, we are going to learn how to use and set Scala variables.
 

@@ -4,9 +4,7 @@ tags: ["Scala", "Tutorial"]
 date: 2018-12-12
 ---
 
-# Scala Variables - Syntax, Declaration, Use case, Examples
-
-Original Source: [scala-variables on Leobenke.com](https://leobenkel.com/2018/12/scala-variables/).
+Original Source: [scala-variables on Leobenkel.com](https://leobenkel.com/2018/12/scala-variables/).
 
 ## Introduction to Scala Variables
 

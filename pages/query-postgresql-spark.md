@@ -122,7 +122,7 @@ Then, make sure that `Spark` knows which driver to use to perform the query. Sin
 
 And finally, all the components are gathered so the query can be run. `df` will be a `DataFrame` containing the entirety of the table. Then, it is possible to use traditional `Spark` methods to `filter`, `select` and transform the data as if the Postgresql table was any other `DataFrame`.
 
-## `Exception in thread "main" java.sql.SQLException: No suitable driver`
+## Exception in thread "main" `java.sql.SQLException: No suitable driver`
 
 The Spark job will throw this exception if any of these are missed:
 
